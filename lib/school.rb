@@ -16,6 +16,6 @@ class School
     roster[student_grade]
   end
   
-  
+  def sort 
     
 end
